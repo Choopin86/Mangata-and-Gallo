@@ -1,2 +1,4 @@
 # Mangata & Gallo
- 1st project from the course Web Developement (META)
+
+Meta Front-End Developer - First graded project
+Course: HTML and CSS in depth
